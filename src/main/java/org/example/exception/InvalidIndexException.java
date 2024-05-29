@@ -20,3 +20,4 @@ public class InvalidIndexException extends RuntimeException {
         super(message, cause, enableSuppression, writableStackTrace);
     }
 }
+

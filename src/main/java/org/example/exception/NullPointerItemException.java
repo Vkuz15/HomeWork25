@@ -20,3 +20,4 @@ public class NullPointerItemException extends RuntimeException{
         super(message, cause, enableSuppression, writableStackTrace);
     }
 }
+
